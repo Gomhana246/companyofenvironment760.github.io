@@ -42,7 +42,14 @@ const galleryArray=[
         releaseDate:"2023",
         desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque, omnis commodi aliquid sapiente ab earum harum illo tempora ipsa. Tempora porro aspernatur aperiam in harum!"
     },
-
+    
+    // {
+    //     id:6,
+    //     name:"Test 06",
+    //     src:"./img/p1.jpg",
+    //     releaseDate:"2023",
+    //     desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque, omnis commodi aliquid sapiente ab earum harum illo tempora ipsa. Tempora porro aspernatur aperiam in harum!"
+    // },
 
     ];
 
